@@ -8,7 +8,7 @@ Ejercicio de consola en C++ para organizar turnos. Cada sección tiene su propia
 
 ### Esta revisión
 
-**2026-11-17 · Explicar cómo probar las filas de atención.** Añade un ejemplo con nombres inventados e indica dónde encontrar las ediciones de Visual C++ y Turbo C++. El lector puede elegir el proyecto que corresponda a su entorno y seguir el flujo de un turno.
+**2026-11-17 · Explicar el recorrido de un turno.** Aclara en la introducción que cada sección tiene su propia fila y enumera las acciones de la consola. El lector puede distinguir entre registrar, consultar y atender un turno.
 
 ### Cómo explorar el código
 
@@ -23,7 +23,7 @@ A C++ console exercise for organizing service turns. Each section has its own qu
 
 ### This revision
 
-**2026-11-17 · Explain how to try separate service queues.** Add a fictional queue example and identify the Visual C++ and Turbo C++ editions. Readers can choose the project that fits their environment and follow one request through the queue.
+**2026-11-17 · Describe how a turn moves through a queue.** Clarify in the introduction that each service desk has its own queue and list the console commands. Readers can tell apart registering, looking up, and serving a turn.
 
 ### How to explore the source
 
